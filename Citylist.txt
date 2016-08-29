@@ -1,0 +1,14 @@
+Graz;Wien;200;true;20
+Graz;Linz;200
+Graz;Klagenfurt;100
+Wien;Linz;100
+Wien;Graz;200;true;20
+Linz;Graz;200
+Linz;Wien;100
+Linz;Salzburg;100
+Salzburg;Linz;100
+Salzburg;Innsbruck;50
+Innsbruck;Salzburg;50
+Innsbruck;Klagenfurt;100
+Klagenfurt;Innsbruck;100
+Klagenfurt;Graz;100
